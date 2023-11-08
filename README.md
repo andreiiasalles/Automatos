@@ -1,6 +1,6 @@
 ## Criando três exemplos de diagrama de autômato finito não deterministicos.
 
-No seguinte diagrama, só haverá um cenário de aceitação caso ele termine com BB, qualquer valor diferente deste não será aceito.
+No seguinte diagrama, só haverá um cenário de aceitação caso ele termine com BB, qualquer valor diferente deste não será aceito, mas entre S0 E S1, pode haver uma infinidade de "A" de "B", dos dois ou de nenhum dos dois.
 <div align="center">
   
 ![image](https://github.com/andreiiasalles/Automatos/assets/57154658/a0af89b5-c5f4-4b9c-9a9e-dcf06df7d7ca)
@@ -28,11 +28,12 @@ Testamos a falha e o sucesso de cenários que terminam com BB e que não termina
 
 - Exemplo 1:
 
-Nesse exemplo é obrigatorio para ser aceito ter no minimo o trajeto ACA, conforme pode ser observado na imagem abaixo:
+Nesse exemplo é obrigatorio para ser aceito ter no minimo o trajeto ACA, conforme pode ser observado na imagem abaixo, Mas existe possibilidades de outros valores no intervalo de S0 para S1, S1 para S2 não conseguindo definir assim o automato. 
 
 <div align="center">
 
-![image](https://github.com/andreiiasalles/Automatos/assets/57154658/dd81c67c-9556-42aa-a2a8-1ae03361044e)
+![image](https://github.com/andreiiasalles/Automatos/assets/57154658/ce3ee5c1-c951-4cea-ac28-3ec6d261cbd6)
+
 
 </div>
 
