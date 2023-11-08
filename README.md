@@ -39,7 +39,7 @@ Nesse exemplo é obrigatorio para ser aceito ter no minimo o trajeto ACA, confor
 
 - Exemplo 2:
 
-Neste exemplo existe duas possibilidades de caminhos aceitavéis, o "C" e o ABA conforme pode ser observado na imagem abaixo, mas não conseguimos determinar como será o caminho pois no intervalo entre  S0 e S1 pode haver "B" ou não e uma infinidade de "B" e o mesmo ocorre entre S1 e S2 como "D", tornando assim não deterministico.
+Neste exemplo existe duas possibilidades de caminhos aceitavéis, o "C" e o ABA conforme pode ser observado na imagem abaixo, mas não conseguimos determinar como será o caminho pois no intervalo entre  S0 e S1 pode haver "B" ou não e uma infinidade de "B", tornando assim não deterministico.
 <div align="center">
 
 ![image](https://github.com/andreiiasalles/Automatos/assets/57154658/d5a28737-7945-4cf2-a4de-679892afc61f)
