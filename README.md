@@ -1,6 +1,6 @@
 ## Criando três exemplos de diagrama de autômato finito não deterministicos.
 
-No seguinte diagrama, só haverá um cenário de aceitação caso ele termine com BB, qualquer valor diferente deste não será aceito, mas entre S0 E S1, pode haver uma infinidade de "A" de "B", dos dois ou de nenhum dos dois.
+No seguinte diagrama, só haverá um cenário de aceitação caso ele termine com BB, qualquer valor diferente deste não será aceito, entretanto há uma ramificação em S0 a partir da entrada de "B", portanto esse autômato é não determinístico.
 <div align="center">
   
 ![image](https://github.com/andreiiasalles/Automatos/assets/57154658/a0af89b5-c5f4-4b9c-9a9e-dcf06df7d7ca)
